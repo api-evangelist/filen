@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Filen is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://filen.io/
+Filen provides next‑generation end‑to‑end encrypted cloud storage, offering zero‑knowledge security for individuals and teams. Its platform includes web, desktop, mobile, and CLI clients, a network drive feature, and a focus on privacy, transparency, and open‑source tools. Users can store, sync, and share files securely without the provider ever accessing the data.
+
+**Areas:** Company · Cloud Storage · Encryption · Zero Knowledge · File Sync
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://filen.io/)
+- [Documentation](https://docs.filen.io)
+- [Getting started](https://docs.filen.io/docs/desktop/setup)
+- [Pricing](https://filen.io/pricing)
+- [Support](https://filen.io/hub)
+- [Security](https://filen.io/security)
+- [Compliance](https://filen.io/security)
+- [Terms of service](https://filen.io/terms)
+- [Privacy policy](https://filen.io/privacy)
+- [GitHub](https://github.com/FilenCloudDienste)
+
+**APIs profiled:** 7
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/filen/](https://apis.io/providers/filen/).
